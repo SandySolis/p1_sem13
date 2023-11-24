@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\sistemas\p1_sem13\p1_sem13\bin\Debug\p1_sem13.exe.config
+C:\Users\USUARIO\Desktop\sistemas\p1_sem13\p1_sem13\bin\Debug\p1_sem13.exe
+C:\Users\USUARIO\Desktop\sistemas\p1_sem13\p1_sem13\bin\Debug\p1_sem13.pdb
+C:\Users\USUARIO\Desktop\sistemas\p1_sem13\p1_sem13\obj\Debug\p1_sem13.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\sistemas\p1_sem13\p1_sem13\obj\Debug\p1_sem13.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\sistemas\p1_sem13\p1_sem13\obj\Debug\p1_sem13.exe
+C:\Users\USUARIO\Desktop\sistemas\p1_sem13\p1_sem13\obj\Debug\p1_sem13.pdb
